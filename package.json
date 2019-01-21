@@ -1,7 +1,7 @@
 {
   "name": "ayu-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Imported tmTheme for Ayu-Dark on Atom",
   "keywords": [
     "syntax",
