@@ -9,7 +9,7 @@
     "ayu",
     "dark"
   ],
-  "repository": "https://github.com/atom/ayu-dark-syntax",
+  "repository": "https://github.com/appelgriebsch/ayu-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
